@@ -15,5 +15,6 @@ public class US01 {
         adminPages.signInButton.click();
         Driver.quitDriver();
         System.out.println("Projemiz başlıyor");
+        System.out.println("merhaba 168");
     }
 }
